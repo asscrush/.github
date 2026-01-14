@@ -1,13 +1,13 @@
-# 💎 asscrush
+# 📦 asscrush
 
-**Common Packages** - Microsb Shared Libraries
+**Package Crush** - Shared Libraries & Configurations
 
 ## Packages
 
-| Package | Description |
-|---------|-------------|
-| [@asscrush/*](https://github.com/asscrush/npm-packages) | NPM Packages (TypeScript) |
-| [net.microsb.*](https://github.com/asscrush/mvn-packages) | Maven Packages (Java) |
+| Repository | Description |
+|------------|-------------|
+| [mvn-packages](https://github.com/asscrush/mvn-packages) | Shared Maven packages (net.microsb.*) |
+| [npm-packages](https://github.com/asscrush/npm-packages) | Shared NPM packages (@asscrush/*) |
 
 ---
-*Part of [Microsb Platform](https://microsb.net)*
+*Part of [Microsb Platform](https://microsb.net) · Auto-generated*
