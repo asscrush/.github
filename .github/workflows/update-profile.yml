@@ -28,4 +28,4 @@ jobs:
           org-title: "Package Crush"
           org-subtitle: "Shared Libraries & Configurations"
           section-title: "Packages"
-          org-read-token: ${{ secrets.ORG_READ_TOKEN }}
+          org-read-token: ${{ secrets.GITFLOW_TOKEN }}
